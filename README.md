@@ -2154,6 +2154,23 @@ Other Style Guides
       .fail(() => console.log('You have failed this city.'));
     ```
 
+  <a name="whitespace--variable-alignment"></a><a name="18.12"></a>
+  - [18.12](#whitespace--variable-alignment) When possible align multiple variable assignments.
+
+    > Why? This ensures readability and maintainability.
+
+    ```javascript
+    // bad
+    const first = 100;
+    const iAmVeryLong = 101;
+    const last = 102;
+
+    // good
+    const first       = 100;
+    const iAmVeryLong = 101;
+    const last        = 102;
+    ```
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Commas
