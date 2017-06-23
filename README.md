@@ -2155,7 +2155,7 @@ Other Style Guides
     ```
 
   <a name="whitespace--variable-alignment"></a><a name="18.12"></a>
-  - [18.12](#whitespace--variable-alignment) When possible align multiple variable assignments.
+  - [18.13](#whitespace--variable-alignment) When possible align multiple variable assignments.
 
     > Why? This ensures readability and maintainability.
 
